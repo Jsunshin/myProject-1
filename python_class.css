@@ -1,6 +1,7 @@
 
 h2{
     margin: 10px;
+    color:blue;
 }
 /*弹性布局样式*/
 .parent{
@@ -9,14 +10,16 @@ h2{
 .chirden1{
     background-color: aliceblue;
     font-size: 16px;
-    width: 600px;
+    width: 1000px;
+
 }
 
 /*设置目录区样式*/
 h1{
     text-align: center;
     margin-bottom: 10px;
-    margin-top: 20px;
+    color: blue;
+    
 }
 a{
     text-decoration: none;
@@ -31,4 +34,11 @@ a{
 /*设制内容展示区样式*/
 .container{
     padding: 10px;
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 25px;
 }
